@@ -21,13 +21,18 @@ The analysis combines multiple quantitative approaches:<br>
 - Clustering reveals three distinct economic profiles: low-income/low-consumption, middle-income/moderate-consumption, and high-income/high-consumption groups.<br>
 - Southern Italy shows generally lower consumption levels compared to North and Center regions.<br>
 
-🧠 Skills Demonstrated
+🧠 Skills Demonstrated<br>
 - Econometric modeling
 - Statistical inference and hypothesis testing
 - Multivariate analysis
 - Classification modeling and ROC evaluation
 - Unsupervised learning (K-means)
 - Data visualization and interpretation
+
+🧠 Conclusion<br>
+The analysis confirms that net available income is the strongest determinant of household consumption in Italy 💶.<br>
+Additional factors such as household size, employment status, transportation expenses, and geographic region also show significant effects, highlighting clear socio-economic differences across the population 🧩.<br>
+Overall, combining regression models, logistic classification (ROC/AUC), and clustering provided a structured view of consumption patterns and regional disparities 🔍📈.
 
 <img width="1004" height="424" alt="image" src="https://github.com/user-attachments/assets/a1fd94b3-2885-47eb-bf07-a943b0ff2a1f" /><br>
 <img width="1004" height="437" alt="image" src="https://github.com/user-attachments/assets/ff1de298-3601-4491-8ec3-0967e55d7f22" /><br>
