@@ -34,8 +34,8 @@ The analysis confirms that net available income is the strongest determinant of 
 Additional factors such as household size, employment status, transportation expenses, and geographic region also show significant effects, highlighting clear socio-economic differences across the population.<br>
 Overall, combining regression models, logistic classification (ROC/AUC), and clustering provided a structured view of consumption patterns and regional disparities.
 
-<img width="1004" height="424" alt="image" src="https://github.com/user-attachments/assets/a1fd94b3-2885-47eb-bf07-a943b0ff2a1f" /><br>
-<img width="1004" height="437" alt="image" src="https://github.com/user-attachments/assets/ff1de298-3601-4491-8ec3-0967e55d7f22" /><br>
-<img width="1004" height="426" alt="image" src="https://github.com/user-attachments/assets/df5ca83e-bb71-475b-b505-977e7a6ae10a" /><br>
-<img width="750" height="317" alt="image" src="https://github.com/user-attachments/assets/9efa1f66-b9c9-4db0-9b54-4b841dfafb56" /><br>
+<img width="45%" alt="image" src="https://github.com/user-attachments/assets/a1fd94b3-2885-47eb-bf07-a943b0ff2a1f" /><br>
+<img width="45%" alt="image" src="https://github.com/user-attachments/assets/ff1de298-3601-4491-8ec3-0967e55d7f22" /><br>
+<img width="45%" alt="image" src="https://github.com/user-attachments/assets/df5ca83e-bb71-475b-b505-977e7a6ae10a" /><br>
+<img width="45%" alt="image" src="https://github.com/user-attachments/assets/9efa1f66-b9c9-4db0-9b54-4b841dfafb56" /><br>
 
