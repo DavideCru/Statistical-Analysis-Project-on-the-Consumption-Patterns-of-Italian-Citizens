@@ -36,10 +36,10 @@ Overall, combining regression models, logistic classification (ROC/AUC), and clu
 
 
 <p align="center">
-<img width="45%" alt="image" src="https://github.com/user-attachments/assets/a1fd94b3-2885-47eb-bf07-a943b0ff2a1f" />
-<img width="45%" alt="image" src="https://github.com/user-attachments/assets/ff1de298-3601-4491-8ec3-0967e55d7f22" />
-<img width="45%" alt="image" src="https://github.com/user-attachments/assets/df5ca83e-bb71-475b-b505-977e7a6ae10a" />
-<img width="45%" alt="image" src="https://github.com/user-attachments/assets/9efa1f66-b9c9-4db0-9b54-4b841dfafb56" />
+<img width="65%" alt="image" src="https://github.com/user-attachments/assets/a1fd94b3-2885-47eb-bf07-a943b0ff2a1f" />
+<img width="65%" alt="image" src="https://github.com/user-attachments/assets/ff1de298-3601-4491-8ec3-0967e55d7f22" />
+<img width="65%" alt="image" src="https://github.com/user-attachments/assets/df5ca83e-bb71-475b-b505-977e7a6ae10a" />
+<img width="65%" alt="image" src="https://github.com/user-attachments/assets/9efa1f66-b9c9-4db0-9b54-4b841dfafb56" />
 </p>
 
 
